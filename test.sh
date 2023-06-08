@@ -1,0 +1,1 @@
+./tools/dist_test.sh ./projects/configs/voxformer/qpn-NS.py ./result/voxformer/qpn-NS/Thu_May_11_22_51_57_2023/qpn-NS/best_ssc_SemanticKITTI/mIoU_epoch_11.pth 1

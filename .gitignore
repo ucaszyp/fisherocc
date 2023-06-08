@@ -1,0 +1,12 @@
+kitti/
+nuscenes/
+*.bin/
+preprocess/nusc_lidar/
+preprocess/mobilestereonet/
+utils/
+ckpts/
+preprocess/data_odometry_calib
+**/__pycache__/
+*.bin
+*.npy
+result/

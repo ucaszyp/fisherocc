@@ -1,0 +1,1 @@
+./tools/dist_train.sh ./projects/configs/voxformer/voxformer-S.py 4

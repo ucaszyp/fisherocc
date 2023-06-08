@@ -1,0 +1,3 @@
+/home/DISCOVER/zyp/Surround_scene/VoxFormer/preprocess/mapping/build/CMakeFiles/rebuild_cache.dir
+/home/DISCOVER/zyp/Surround_scene/VoxFormer/preprocess/mapping/build/CMakeFiles/edit_cache.dir
+/home/DISCOVER/zyp/Surround_scene/VoxFormer/preprocess/mapping/build/CMakeFiles/mapping.dir
